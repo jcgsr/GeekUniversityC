@@ -20,8 +20,7 @@ int main (void)
     for (int j = 0; j < 4; j++)
     {
       printf("%d - %d\n", num[i][j]);
-    }
-    
+    }    
   }
   return 0;  
 }
